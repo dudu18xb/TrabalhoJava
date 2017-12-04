@@ -16,6 +16,8 @@
         <title>Cadastro Conta</title>
     </head>
     <body>
+        <div class="container">
+            <div class="col-md-6">
         <h1>Tela de cadastro</h1>
         
         <div>
@@ -42,11 +44,11 @@
                 </div>
                 
                 <div class="form-group">
-                    <input type="submit" id="submit" class="btn-btn-primary" value="Cadastrar">
+                    <input type="submit" id="submit" class="btn btn-primary" value="Cadastrar">
                    
-                
+                </div>
             </form>
         </div>     
-               
+        </div>
     </body>
 </html>
