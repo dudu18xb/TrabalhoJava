@@ -24,6 +24,6 @@ public class MeuController {
         
       
         
-        return "contas/cadastroConta";
+        return "contas.java/cadastroConta";
     }
 }
